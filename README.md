@@ -1,2 +1,2 @@
 # music-player
-it is user fridly
+it is user friendly
